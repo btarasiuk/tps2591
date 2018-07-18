@@ -87,7 +87,6 @@
     </implicitContextSettings>
     <ItemsRelations xmi:id="_is0nYInKEei3qZcwzagncw">
       <baseItem xmi:id="_is0nYYnKEei3qZcwzagncw" id="_WAdbEH6pEeiWT4rukKBN7g" version="0.1" type="job"/>
-      <relatedItems xmi:id="_is0nYonKEei3qZcwzagncw" id="_LrIKEHVVEeiGD5JYSnSvDA" version="Latest" type="context"/>
       <relatedItems xmi:id="_is0nY4nKEei3qZcwzagncw" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_is0nZInKEei3qZcwzagncw" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_is0nZYnKEei3qZcwzagncw" id="TalendString" version="Latest" type="routine"/>
@@ -103,8 +102,6 @@
       <relatedItems xmi:id="_is0nb4nKEei3qZcwzagncw" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_is0ncInKEei3qZcwzagncw" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_is0ncYnKEei3qZcwzagncw" id="TalendStringUtil" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_is0nconKEei3qZcwzagncw" id="_6ZNgoHrWEeil9465fi3iqw - dl_email" version="Latest" type="schema"/>
-      <relatedItems xmi:id="_is0nc4nKEei3qZcwzagncw" id="_-coaIHrTEeil9465fi3iqw - dl_contactprofile" version="Latest" type="schema"/>
     </ItemsRelations>
     <migrationTask xmi:id="_1zOtAInJEei3qZcwzagncw" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_1zOtAYnJEei3qZcwzagncw" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
